@@ -1,0 +1,19 @@
+{
+  "name": "Quản lý quân số Đội 7",
+  "short_name": "Quân số Đội 7",
+  "description": "Theo dõi quân số trực ban Đội 7 ngoại tuyến trên thiết bị.",
+  "lang": "vi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7f5",
+  "theme_color": "#123b32",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
