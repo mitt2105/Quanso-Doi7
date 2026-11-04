@@ -6,6 +6,7 @@ PWA ngoại tuyến riêng cho Đội 7, kế thừa giao diện bốn tab của
 
 - Điểm danh độc lập theo Sáng, Chiều, Tối và bản dự kiến Sáng ngày tiếp theo.
 - Chọn cán bộ vắng bằng checkbox; tên đã chọn ở nhóm trên tự ẩn khỏi nhóm dưới. Số lượng vắng tự đếm theo tên đã tích.
+- Nhóm vắng mặt thu gọn mặc định; bấm **Mở rộng** khi cần chọn tên hoặc nhập số lượng.
 - Riêng Nghỉ ngoài giờ và Nghỉ chế độ có ô nhập nhanh số người nghỉ; các nhóm khác vẫn chọn tên.
 - Chép dữ liệu ca trước để chỉ sửa các thay đổi; chiều lấy sáng cùng ngày, ca Tối lấy ca Tối đã lưu gần nhất ở ngày trước đó, dự kiến sáng mai lấy sáng cùng ngày, ca Sáng lấy bản dự kiến sáng của ngày đó đã nhập từ Tối hôm trước.
 - Tìm nhanh tên theo dấu hoặc không dấu; danh sách lọc ngay khi gõ.
